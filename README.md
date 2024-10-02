@@ -7,3 +7,6 @@ In this repository, you'll find a collection of 50 SQL practice queries designed
 You can also read more about the queries in my Medium article:
 
 [50 Practice SQL Queries of the Northwind Database (PostgreSQL)](https://medium.com/@incigulcindurak/step-by-step-practices-50-practice-sql-queries-of-the-northwind-database-postgresql-38ed602ef30d)
+
+[Dev Notes: Notes and Practical Tips for Mastering SQL)](https://medium.com/@incigulcindurak/dev-notes-notes-and-practical-tips-for-mastering-sql-0f8dfedfa46a)
+
